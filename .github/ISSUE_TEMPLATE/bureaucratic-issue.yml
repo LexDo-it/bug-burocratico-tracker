@@ -1,0 +1,69 @@
+name: Segnalazione problema burocratico / Bureaucratic issue
+description: Segnala un problema burocratico che impatta startup e imprese tech in Italia
+title: "[BUREAUCRACY] "
+labels: ["triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        🇮🇹 **Italiano**
+
+        Questo form serve a raccogliere segnalazioni concrete e documentate di problemi burocratici che impattano l’ecosistema tech italiano.
+        Compila tutti i campi in modo chiaro e fattuale.
+
+        🇬🇧 **English**
+
+        This form collects concrete, real-world bureaucratic issues affecting the Italian tech ecosystem.
+        Please fill in all fields carefully and factually.
+
+  - type: input
+    id: affected
+    attributes:
+      label: Chi è coinvolto / Who is affected
+      placeholder: Founder, startup, freelance, lavoratori stranieri, investitori, ecc.
+    validations:
+      required: true
+
+  - type: input
+    id: authority
+    attributes:
+      label: Ente / Piattaforma coinvolta
+      placeholder: Agenzia delle Entrate, INPS, Comune, Camera di Commercio, portale online…
+    validations:
+      required: true
+
+  - type: textarea
+    id: process
+    attributes:
+      label: Descrizione del processo e del problema
+      description: |
+        Descrivi i passaggi seguiti, cosa non ha funzionato e dove il processo si è bloccato.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_vs_actual
+    attributes:
+      label: Risultato atteso vs reale
+      description: Cosa ti aspettavi che accadesse e cosa è successo in realtà?
+    validations:
+      required: true
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impatto
+      description: Tempo perso, costi, attività bloccate, incertezza generata.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidenze / Fonti
+      description: |
+        Link a norme, portali ufficiali, modulistica, comunicazioni o screenshot (con dati personali oscurati).
+    validations:
+      required: false
