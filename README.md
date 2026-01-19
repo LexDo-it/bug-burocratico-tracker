@@ -97,8 +97,8 @@ Linee guida dettagliate in `CONTRIBUTING.md` (in arrivo).
 ## 👥 Promotori e maintainer
 
 Il progetto è promosso da:
-- **LexDo.it**
-- **InnovUp – Italian Startup & Scaleup Association**
+- **[InnovUp](https://innovup.net) – Italian Startup & Scaleup Association**
+- **[LexDo.it](https://www.lexdo.it)** - Apri e gestisci 100% online la tua attività, senza perderti nei buchi neri della burocrazia.
 
 I maintainer:
 - curano l’organizzazione delle issue
