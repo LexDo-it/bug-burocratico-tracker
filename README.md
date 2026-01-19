@@ -54,15 +54,8 @@ Se hai vissuto la **stessa esperienza**, evita di creare duplicati: commenta agg
 I problemi sono classificati tramite label, ad esempio:
 - `costituzione società`
 - `fisco e contabilità`
-- `assunzioni e visti`
-- `banche`
-- `piattaforme della PA`
-- `identità digitale (SPID / CIE / CNS)`
-- `INPS`
-- `Agenzia delle Entrate`
-- `Camera di Commercio`
-- `privacy / GDPR`
-- `contratti e aspetti legali`
+- `assunzioni e personale`
+- `piattaforme della PA e Camere di Commercio`
 
 Le label possono essere aggiornate dai maintainer per migliorare l’organizzazione.
 
