@@ -2,7 +2,7 @@
 
 **Un tracker pubblico dei principali ostacoli burocratici e regolatori per startup, PMI innovative, freelance e imprese tech in Italia.**
 
-Questo progetto è promosso da **LexDo.it**, in collaborazione con **InnovUp** (Associazione Italiana Startup & Scaleup), con l’obiettivo di raccogliere evidenze concrete dal mercato e contribuire a un dialogo informato e costruttivo con le istituzioni.
+Questo progetto è promosso da **InnovUp** (Associazione Italiana Startup & Scaleup), in collaborazione con **LexDo.it**, con l’obiettivo di raccogliere evidenze concrete dal mercato e contribuire a un dialogo informato e costruttivo con le istituzioni.
 
 ---
 
